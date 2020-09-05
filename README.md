@@ -1,2 +1,1 @@
-# CS648 Assignment 1
- Module 1
+**This is about Vecta Corporation that finds all the solutions for your ebusiness**
